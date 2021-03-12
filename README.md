@@ -17,5 +17,5 @@ The red box shows the alarm set.
 Just set the alarm and activate it.To stop the alarm click Stop Alarm.
 Change the alarm tune by make changes in (alarm.cpp) 
 
+Threads and Mutex used.
 ![Screenshot from 2021-03-11 22-49-11](https://user-images.githubusercontent.com/56449074/110889590-74349e00-82bc-11eb-9584-03d04f1609a1.png)
-
