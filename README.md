@@ -11,6 +11,7 @@ Screenshot 1 -
 ![Screenshot from 2021-03-11 22-49-27](https://user-images.githubusercontent.com/56449074/110889581-7139ad80-82bc-11eb-86fa-d9d9075b7e6d.png)
 
 Screenshot 2 - 
+
 The blue box shows the current time which is update every minute.
 The red box shows the alarm set.
 Just set the alarm and activate it.To stop the alarm click Stop Alarm.
